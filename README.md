@@ -14,7 +14,7 @@
 ## Repositories
 
 This GitHub Organisation is where many of our commercial and open-source projects live. Contributions are welcomed in all of our open-source projects. If you find any of our open-source
-projects useful, please do not hesitate in star it.
+projects useful, please do not hesitate to star it.
 
 ## Resources
 
