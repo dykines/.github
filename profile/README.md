@@ -9,4 +9,4 @@
 
 -----
 
-[Dykines](https://dykines.com) is a Digital Innovative Service offering innovative solutions to business and individuals around the globe.
+[Dykines](https://dykines.com) is a Digital Innovative Service offering innovative solutions to business and individuals around the globe. Contributions are welcomed in all of our open-source projects. If you find any of our open-source project useful, please do not hesitate to star it.
