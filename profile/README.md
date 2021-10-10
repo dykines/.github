@@ -10,22 +10,3 @@
 -----
 
 [Dykines](https://dykines.com) is a Digital Innovative Service offering innovative solutions to business and individuals around the globe.
-
-## Repositories
-
-This GitHub Organisation is where many of our commercial and open-source projects live. Contributions are welcomed in all of our open-source projects. If you find any of our open-source
-projects useful, please do not hesitate in starring it.
-
-## Resources
-
-- [Website](https://dykines.com)
-- [Team](https://github.com/orgs/dykines/people)
-- [Documentation](https://docs.dykines.com)
-
-## Development
-
-- [Bare repository](https://github.com/dykines/repository-starter)
-
-## License
-
-This repository is copyrighted to @dykines and licensed for use under the [MIT LICENSE](./LICENSE)
